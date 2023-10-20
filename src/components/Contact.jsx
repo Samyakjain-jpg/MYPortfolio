@@ -36,7 +36,7 @@ const Contact = () => {
     form: {
       initial: {
         x: "-100%",
-        opacity: 0,
+        opacity: 1,
       },
       whileInView: {
         x: 0,
